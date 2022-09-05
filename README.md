@@ -42,7 +42,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumedh9561&show_icons=true&locale=en" alt="sumedh9561" /></p>
 
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=sumedh9561&" alt="sumedh9561" /></p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
