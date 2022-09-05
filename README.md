@@ -45,6 +45,9 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <a href="https://github.com/sumedh9561/github-readme-activity-graph"><img alt="sumedh9561's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumedh9561&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=sumedh9561&theme=monokai&row=1&column=6">
+
+
 
 
 <code>
