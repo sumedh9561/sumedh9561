@@ -17,12 +17,18 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java**
-
-
-- 💬 Ask me about **Java/JavaScript**
-
-- 📫 How to reach me **ambhoresumedh992@gmail.com**
+ 💬 About me ...<br>
+<ul>
+  <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
+<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+<!--   <li>📰 My First Web Page_________________________________</li> -->
+</ul>
+👯 I’m looking to collaborate on ..
+<ul>
+  <li>Open source Projects</li>
+  <!-- <li>Full-stack Development</li> -->
+  <li>Java Back-end Development</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 
