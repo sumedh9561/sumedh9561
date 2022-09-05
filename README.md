@@ -1,5 +1,5 @@
 ### Hi there👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Sumedh+Ambhore!;Learning+Java+Back-end+Development...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Sumedh+Ambhore!;Java+Back-end+Development...;" style="width: 100%;">
 
 
 
