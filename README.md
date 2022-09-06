@@ -30,16 +30,78 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <li>Java Back-end Development</li>
 </ul>
 
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+<br/>
+❤ Views and Followers <br/>
+  
+<a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
+<a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
+  <img align="left" alt="sumedh's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+</a>
+
+<a href="https://leetcode.com/SumedhAmbhore/">
+  <img align="left" alt="sumedh's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
+</a>
+
+
+<a href="https://www.hackerrank.com/ambhoresumedh992/">
+<a href="https://www.hackerrank.com/ambhoresumedh992">
+  <img align="left" alt="sumedh's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
+</a>
+<a href="https://github.com/sumedh9561?tab=followers"><img src="https://img.shields.io/github/followers/sumedh9561?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<br/>
+
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
+<a href="https://twitter.com/@SumedhAmbhore14">
+  <img align="left" alt="Sumedh Ambhore | Twitter" height="30" width="40" " src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <a href="https://linkedin.com/in/sumedh ambhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumedh ambhore" height="30" width="40" /></a>
 <a href="https://fb.com/sumedh ambhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumedh ambhore" height="30" width="40" /></a>
 <a href="https://instagram.com/sumedh ambhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumedh ambhore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  width="50" height="50"/> </a> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -54,9 +116,20 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <br/>
 <a href="https://github.com/sumedh9561/github-readme-activity-graph"><img alt="sumedh9561's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumedh9561&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sumedh9561&theme=monokai&row=1&column=6">
+
+_______________________________________________________________________________________________________________________________________________________
+<h3>When not coding :</h3>
+Listening song 🎧<br>
+Reading some social media news 📱<br>
+Travelling(Historical Places) 🏍️<br>
+Exercise 🏋🏻‍♂️<br>
+<br>
+<br>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
