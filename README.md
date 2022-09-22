@@ -124,7 +124,7 @@ __________________________________________
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumedh9561&show_icons=true&locale=en&layout=compact" alt="sumedh9561" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumedh9561&show_icons=true&locale=en&layout=compactbg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="sumedh9561" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumedh9561&show_icons=true&locale=en" alt="sumedh9561" /></p>
 
@@ -150,13 +150,13 @@ Exercise 🏋🏻‍♂️<br>
 <br>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
+**********************************************************************************************************************************************************
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 
-<code>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
+
