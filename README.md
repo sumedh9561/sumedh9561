@@ -124,9 +124,14 @@ __________________________________________
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumedh9561&show_icons=true&locale=en&layout=compactbg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="sumedh9561" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumedh9561&show_icons=true&locale=en" alt="sumedh9561" /></p>
+
+
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedh9561&theme=react&langs_count=8" alt="sumedh ambhore" height="240px" width="35%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sumedh9561&show_icons=true&theme=react" height="270px" width="57%"/>
+<div>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
