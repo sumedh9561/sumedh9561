@@ -17,7 +17,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
- 💬 About me ...<br>
+ <h2>💬 About me ...</h2><br>
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
@@ -41,7 +41,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 <br/>
-<li>❤ Views and Followers</li> <br>
+<H3>❤ Views and Followers</H3> <br>
   
 <a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
 <a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
