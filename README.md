@@ -41,7 +41,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 <br/>
-❤ Views and Followers <br/>
+<li>❤ Views and Followers</li> <br>
   
 <a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
 <a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
