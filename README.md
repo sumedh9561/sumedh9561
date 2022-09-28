@@ -32,15 +32,8 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </ul>
 - 👨‍💻 Checkout my Portfolio https://sumedh9561.github.io/
 
-
-
-
-
 -------------------------------------------------------------------------------------------------------
 
-
-
-<br/>
 <H3>❤ Views and Followers</H3> <br>
   
 <a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
@@ -59,35 +52,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </a>
 <a href="https://github.com/sumedh9561?tab=followers"><img src="https://img.shields.io/github/followers/sumedh9561?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-<br/>
-
-
 _______________________________________________________________________________________________________________________________________________________
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -102,9 +67,6 @@ ________________________________________________________________________________
 <a href="https://instagram.com/sumedh ambhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumedh ambhore" height="30" width="40" /></a>
 </p>
 __________________________________________
-
-
-
 
 <div align="center">
   <h3 align="center" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h3>
@@ -151,14 +113,12 @@ __________________________________________
 </table>
 </div> 
 
-
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-
-
+<div align="center">
+  <h3 align="center" border="0"> 📊 My Github Stats</h3>
+  <br>
 
 
 <div>
