@@ -52,7 +52,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </a>
 <a href="https://github.com/sumedh9561?tab=followers"><img src="https://img.shields.io/github/followers/sumedh9561?label=Followers&style=social" alt="GitHub Badge"></a>
 
-_______________________________________________________________________________________________________________________________________________________
+
 
 
 <h3 align="left">Connect with me:</h3>
