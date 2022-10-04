@@ -147,7 +147,7 @@ Exercise 🏋🏻‍♂️<br>
 <br>
 <br>
 
-<h3> :- "kisi cheez ko agar dil se chaho, to poori kaynat use tum se milane me lag jati hai" -: </h3>
+<h3> :- "When you really desire something from the heart and soul, all the universe conspires you to achieve it" -: </h3>
 
 
 **********************************************************************************************************************************************************
