@@ -6,8 +6,8 @@
 ![MasterHead](https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966)
 
 
-<h3 align="center" dir="auto"><a id="user-content-a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team" class="anchor" aria-hidden="true" href="#a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
+***<h3 align="center" dir="auto"><a id="user-content-a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team" class="anchor" aria-hidden="true" href="#a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>***
 
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -17,7 +17,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
- <h2>💬 About me ...</h2><br>
+ ***<h2>💬 About me ...</h2><br>***
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
@@ -34,7 +34,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 -------------------------------------------------------------------------------------------------------
 
-<H3>❤ Views and Followers</H3> <br>
+***<H3>❤ Views and Followers</H3>*** <br>
   
 <a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
 <a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
@@ -55,7 +55,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-<h3 align="left">Connect with me:</h3>
+***<h3 align="left">Connect with me -:</h3>***
 
 <p align="left">
 
@@ -117,7 +117,7 @@ __________________________________________
 
 
 <div align="center">
-  <h3 align="center" border="0"> 📊 My Github Stats</h3>
+ <h3 align="center" border="0"> 📊 My Github Stats</h3>
   <br>
 
 
@@ -139,7 +139,7 @@ __________________________________________
 <img src="https://github-profile-trophy.vercel.app/?username=sumedh9561&theme=monokai&row=1&column=6">
 
 _______________________________________________________________________________________________________________________________________________________
-<h3>When not coding :</h3>
+***<h3>When not coding -:</h3>***
 Listening song 🎧<br>
 Reading some social media news 📱<br>
 Travelling(Historical Places) 🏍️<br>
@@ -147,7 +147,8 @@ Exercise 🏋🏻‍♂️<br>
 <br>
 <br>
 
-<h3> :- "When you really desire something from the heart and soul, all the universe conspires you to achieve it" -: </h3>
+***<h3> :- "When you really desire something from the heart and soul, all the universe conspires you to achieve it" -: </h3>***
+<h1 style="color:blue;">A Blue Heading</h1>
 
 
 **********************************************************************************************************************************************************
