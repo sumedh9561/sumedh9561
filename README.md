@@ -148,7 +148,7 @@ Exercise 🏋🏻‍♂️<br>
 <br>
 
 ***<h3> :- "When you really desire something from the heart and soul, all the universe conspires you to achieve it" -: </h3>***
-<h1 style="color:blue;">A Blue Heading</h1>
+
 
 
 **********************************************************************************************************************************************************
