@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Sumedh+Ambhore!;Java+Back-end+Developer...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FFFF00&amp;size=20&amp;lines=Hey!+It's+Sumedh+Ambhore!;Java+Back-end+Developer...;" style="width: 100%;">
 
 
 
