@@ -29,9 +29,9 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <li>Open source Projects</li>
   <!-- <li>Full-stack Development</li> -->
   <li>Java Back-end Development</li>
-  
+  <li>👨‍💻 Checkout my Portfolio https://sumedh9561.github.io/</li>
 </ul>
-- 👨‍💻 Checkout my Portfolio https://sumedh9561.github.io/
+
 
 -------------------------------------------------------------------------------------------------------
 
