@@ -64,7 +64,7 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
 <a href="https://twitter.com/@SumedhAmbhore14">
   <img align="left" alt="Sumedh Ambhore | Twitter" height="30" width="40" " src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/sumedh ambhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumedh ambhore" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumedh-ambhore-0470b6216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumedh ambhore" height="30" width="40" /></a>
 <a href="https://fb.com/sumedh ambhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumedh ambhore" height="30" width="40" /></a>
 <a href="https://instagram.com/sumedh ambhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumedh ambhore" height="30" width="40" /></a>
 </p>
