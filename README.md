@@ -30,11 +30,13 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
   <li>Open source Projects</li>
   <!-- <li>Full-stack Development</li> -->
   <li>Java Back-end Development</li>
-  <li>All of my projects are available at <span> <a href="https://sumedh9561.github.io/" target="_blank"> My Portfolio </a></span> </li> 
-  <li>For Resume<span> <a href="https://drive.google.com/file/d/1RbPJ0oqg2krB3Jk7ghj1KLFN89eBrdeP/view" target="_blank"> Click </a> </span></li>
-  <li>📧 How to reach me  <span> <a href="ambhoresumedh992@gmail.com" target="_blank"> ambhoresumedh992@gmail.com</a></span> </li>
+  <li>All of my projects are available at <span> <a href="https://sumedh9561.github.io/" target="_blank"><strong> My Portfolio</strong> </a></span> </li> 
+  <li>For Resume<span> <a href="https://drive.google.com/file/d/1RbPJ0oqg2krB3Jk7ghj1KLFN89eBrdeP/view" target="_blank"><strong> Click </strong></a> </span></li> 
+  
 
 </ul>
+
+
 
 
 
