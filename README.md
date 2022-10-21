@@ -124,7 +124,7 @@ __________________________________________
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br>
-<h2 align="center" >Leetcode Statistics<h2>
+<h3 align="center">Leetcode Statistics</h3>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/SumedhAmbhore?ext=activity" />
 <br />
