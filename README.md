@@ -12,6 +12,7 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
 
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<a href="https://github.com/sumedh9561?tab=followers"><img src="https://img.shields.io/github/followers/sumedh9561?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedh9561&label=Profile%20views&color=0e75b6&style=flat" alt="sumedh9561" /> </p>
@@ -41,25 +42,6 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
 
 
 -------------------------------------------------------------------------------------------------------
-
-***<H3>❤ Views and Followers</H3>*** <br>
-  
-<a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
-<a href="https://www.linkedin.com/in/creative-mind-0470b6216/">
-  <img align="left" alt="sumedh's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
-
-<a href="https://leetcode.com/SumedhAmbhore/">
-  <img align="left" alt="sumedh's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
-</a>
-
-
-<a href="https://www.hackerrank.com/ambhoresumedh992/">
-<a href="https://www.hackerrank.com/ambhoresumedh992">
-  <img align="left" alt="sumedh's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
-</a>
-<a href="https://github.com/sumedh9561?tab=followers"><img src="https://img.shields.io/github/followers/sumedh9561?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 
 
@@ -130,27 +112,18 @@ __________________________________________
 <br />
 
 
-
-
-<div align="center">
- <h3 align="center" border="0"> 📊 My Github Stats</h3>
-  <br>
-
-
+<h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedh9561&theme=react&langs_count=8" alt="sumedh ambhore" height="240px" width="35%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sumedh9561&show_icons=true&theme=react" height="270px" width="57%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedh9561&theme=react" alt="xyz " height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sumedh9561&show_icons=true&theme=react" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedh9561&theme=react&langs_count=8" alt="love you" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=sumedh9561&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
 <div>
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-<br/>
-<a href="https://github.com/sumedh9561/github-readme-activity-graph"><img alt="sumedh9561's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumedh9561&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sumedh9561&theme=monokai&row=1&column=6">
 
