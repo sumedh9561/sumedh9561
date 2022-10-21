@@ -103,7 +103,6 @@ __________________________________________
 </table>
 </div> 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br>
 <h3 align="center">Leetcode Statistics</h3>
@@ -111,6 +110,7 @@ __________________________________________
 <img src="https://leetcard.jacoblin.cool/SumedhAmbhore?ext=activity" />
 <br />
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📊 My Github Stats<h2>
 <div>
@@ -125,27 +125,18 @@ __________________________________________
 <div>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumedh9561&theme=monokai&row=1&column=6">
-
-_______________________________________________________________________________________________________________________________________________________
-***<h3>When not coding -:</h3>***
-Listening song 🎧<br>
-Reading some social media news 📱<br>
-Travelling(Historical Places) 🏍️<br>
-Exercise 🏋🏻‍♂️<br>
-<br>
-<br>
-
-***<h3> :- "When you really desire something from the heart and soul, all the universe conspires you to achieve it" -: </h3>***
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=sumedh9561&theme=monokai&row=1&column=6"> --> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 
-**********************************************************************************************************************************************************
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
 </code>
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+      <h4> :- "Time has it's own timeline, Trust the process" -: </h4>***
+
 
 
 
