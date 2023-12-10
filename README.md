@@ -75,7 +75,7 @@ __________________________________________
 </td>
 <td width="25%" align="center">
 <span><b>Spring</b></span><br><br>
-<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg">
 </td>
 <td width="25%" align="center">
 <span><b>HIBERNATE</b></span><br><br>
