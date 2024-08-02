@@ -33,7 +33,7 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
   <!-- <li>Full-stack Development</li> -->
   <li>Java Back-end Development</li>
   <li>All of my projects are available at <span> <a href="https://sumedh9561.github.io/" target="_blank"><strong> My Portfolio</strong> </a></span> </li> 
-  <li>For Resume<span> <a href="https://drive.google.com/file/d/1RbPJ0oqg2krB3Jk7ghj1KLFN89eBrdeP/view" target="_blank"><strong> Click </strong></a> </span></li> 
+  <li>For Resume<span> <a href="https://drive.google.com/file/d/1YkZhSEa-POy6l7KOOSsf2MPIdNWKBYw8/view?usp=drive_link" target="_blank"><strong> Click </strong></a> </span></li> 
   
 
 </ul>
